@@ -4,9 +4,13 @@ Assignment 2 - VBA - Stock Data - ADavila
 The VBA code utilitzed in this project includes snippets and ideas sourced from various contributors and public resources. I would like to acknowledge the following individuals and organizations for their valuable code contributions:
 
 UTA_Bootcamp
+
 Microsoft - learn.microsoft.com
+
 StackOverflow - stackoverflow.com
+
 SuperExcelVBA - superexcelvba.com
+
 Automate Excel - automateexcel.com
 
 Their knowledge have greatly assisted in the development of the code below:
